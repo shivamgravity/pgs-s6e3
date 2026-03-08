@@ -5,6 +5,13 @@
 
 *You can visit the official competition page from the above mentioned url and access the dataset as well.*
 
+**Version 01**
+
+| Script | Model |
+|--------|-------|
+| 01 | Logistic Regresssion |
+| 02 | XG Boost |
+
 *Working...*
 
-**Last Updated: 07.03.2026**
+**Last Updated: 09.03.2026**
